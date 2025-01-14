@@ -1,0 +1,18 @@
+{
+  "name": "shirokobot",
+  "version": "1.0.0",
+  "description": "A discord bot made with discord.js v14",
+  "main": "Shiroko.js",
+  "scripts": {
+    "start": "nodemon Shiroko.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AnyaHosting, xDarkEXE",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.4",
+    "nodemon": "^3.1.9"
+  }
+}
